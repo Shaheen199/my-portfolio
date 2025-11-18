@@ -95,7 +95,7 @@ export default function Page() {
         <div className="glass p-6 rounded-2xl flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
             <h3 className="text-2xl font-semibold">Let’s build something great.</h3>
-            <p className="text-white/70">Based in Colombo (UTC+5:30). I reply fast.</p>
+            <p className="text-white/70">Based in Colombo. I reply fast.</p>
           </div>
 
           <div className="flex gap-3">
