@@ -21,8 +21,8 @@ export default function Hero() {
             Turning <span className="text-accent">Ideas</span>, Into smooth, functional, and modern web products.
           </h1>
           <p className="text-white/70 text-lg">
-            I craft clean UI/UX, robust APIs, and cloud‑ready solutions. Focused on
-            full‑stack development, automation, and security‑minded engineering.
+           I design smooth interfaces and build reliable backend systems, 
+           with a strong focus on fullstack development and secure engineering.
           </p>
           <div className="flex gap-3">
             <a className="btn" href="#work">View Work</a>
