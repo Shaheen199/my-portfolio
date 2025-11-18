@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Shaheen Munaz — Portfolio",
-  description: "Software Engineering Undergraduate • Full‑Stack Developer • UI/UX Enthusiast",
+  description: "Software Engineering Undergraduate • FullStack Developer • UI/UX Enthusiast",
 };
 
 export default function RootLayout({ children }) {

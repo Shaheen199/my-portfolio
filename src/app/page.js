@@ -21,32 +21,32 @@ export default function Page() {
           <ProjectCard
             title="Smart Home Automation System"
             tags={["C++", "OOP", "SOLID"]}
-            desc="A full OOP-based smart home system using device inheritance (Camera, Thermostat, Light, Speaker) with a central DeviceManager and menu-driven interface."
+            desc="A full OOP based smart home system using device inheritance (Camera, Thermostat, Light, Speaker) with a central DeviceManager and menu-driven interface."
           />
 
           <ProjectCard
             title="MovieHub Mobile App"
             tags={["Flutter", "Dart", "Android Studio", "Figma"]}
-            desc="A cross-platform movie browsing app designed in Figma and built using Flutter with search, categories, and responsive UI for Android and iOS."
+            desc="A cross platform movie browsing app designed in Figma and built using Flutter with search, categories, and responsive UI for Android and iOS."
           />
 
           <ProjectCard
             title="OWASP Top-10 Security Simulation"
             tags={["Kali Linux", "Cybersecurity", "VMware"]}
-            desc="Two-Kali Linux VM setup to simulate SQL Injection, brute-force attacks, and authentication failures. Includes documentation of exploits and mitigation strategies."
+            desc="Two Kali Linux VM setup to simulate SQL Injection, brute-force attacks, and authentication failures. Includes documentation of exploits and mitigation strategies."
           />
 
           <ProjectCard
             title="Modern Portfolio (This Website)"
             tags={["Next.js", "Framer Motion", "TailwindCSS"]}
-            desc="A premium purple-tech themed portfolio featuring animations, glass UI, responsive layouts, and optimized Next.js page structure."
+            desc="A portfolio featuring animations, glass UI, responsive layouts, and optimized Next.js page structure."
           />
 
           {/* ⭐ CURRENT TRAINING CARD ⭐ */}
           <ProjectCard
-            title="Backend Engineer Training – STEMLink Bootcamp"
+            title="Backend Engineer Training  (STEMLink Bootcamp)"
             tags={["Java", "Spring Boot", "PostgreSQL", "Docker", "Firebase", "React", "TailwindCSS"]}
-            desc="Currently enrolled in a professional backend engineering program covering Java OOP, Spring Boot microservices, PostgreSQL, Docker containerization, Firebase auth, Git/GitHub workflows, and full-stack deployments with React."
+            desc="Currently enrolled in a professional backend engineering program covering Java OOP, Spring Boot microservices, PostgreSQL, Docker containerization, Firebase auth, Git/GitHub workflows, and fullstack deployments with React."
           />
 
         </div>
@@ -90,7 +90,7 @@ export default function Page() {
       {/* ===== CONTACT SECTION ===== */}
       <Section 
         title="Get In Touch" 
-        subtitle="Open to internships and junior roles in full-stack, backend, mobile, and security-minded engineering."
+        subtitle="Currently exploring internship and junior roles in fullstack, backend, mobile, and security engineering."
       >
         <div className="glass p-6 rounded-2xl flex flex-col md:flex-row items-center justify-between gap-4">
           <div>

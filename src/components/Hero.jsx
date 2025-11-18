@@ -18,7 +18,7 @@ export default function Hero() {
             Software Engineering Undergraduate • Colombo
           </span>
           <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-            Building <span className="text-accent">modern</span>, scalable & intelligent web experiences.
+            Turning <span className="text-accent">Ideas</span>, Into smooth, functional, and modern web products.
           </h1>
           <p className="text-white/70 text-lg">
             I craft clean UI/UX, robust APIs, and cloud‑ready solutions. Focused on
