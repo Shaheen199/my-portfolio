@@ -55,7 +55,7 @@ export default function Page() {
       {/* ===== SKILLS SECTION ===== */}
       <Section 
         title="What I Work With" 
-        subtitle="A practical stack I use for frontend, backend, cloud, and security work."
+        subtitle="My evolving technical stack, built from technologies I have hands on experience with and am actively strengthening across frontend, backend, cloud, and security."
       >
         <div className="flex flex-wrap gap-3">
           {[
